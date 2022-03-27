@@ -1,0 +1,4 @@
+行注释Ctrl+/、块注释Ctrl+Shift+/
+sout 输出
+alt+enter、alt+insert   快速生成get与set方法
+复制当前行到下一行快捷键  Ctrl+d
